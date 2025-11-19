@@ -1,11 +1,7 @@
-.big-box {
-    background:black;
-    width:150px;
-    height:150px;
-    color:white;
+#klasslistor {
+    display:flex;
 }
 
-.flex {
-    display:flex;
-    gap:4px;
+#klass-fe, #klass-be {
+    border:2px solid black;
 }
