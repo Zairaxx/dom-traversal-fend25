@@ -1,0 +1,11 @@
+.big-box {
+    background:black;
+    width:150px;
+    height:150px;
+    color:white;
+}
+
+.flex {
+    display:flex;
+    gap:4px;
+}
